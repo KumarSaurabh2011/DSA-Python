@@ -13,5 +13,5 @@ def sorted_squares(nums):
             right -= 1
     return result
 
-nums = [-4, -1, 0, 3, 10]
-print(sorted_squares(nums)) # Output: [0, 1, 9, 16, 100]
+nums = [-4, -1, 0, 3, 10, 20]
+print(sorted_squares(nums))  # Output: [0, 1, 9, 16, 100, 400]
