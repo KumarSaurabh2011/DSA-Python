@@ -1,0 +1,1 @@
+#Hint-Keep one pointer fixed and use two pointers for the remaining elements
